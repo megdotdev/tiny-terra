@@ -28,7 +28,7 @@ Edit these variables directly in the `tiny_terra.py` file:
 
 ## 🖼️ Sample Output
 
-![Sample Map](fun_tilemap.png)
+<img src="fun_tilemap.png" alt="Sample Map" width="200">
 
 ## ✍️ Author
 **Megan Martinez**

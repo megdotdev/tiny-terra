@@ -26,5 +26,9 @@ Edit these variables directly in the `tiny_terra.py` file:
 
 ---
 
+## 🖼️ Sample Output
+
+![Sample Map](fun_tilemap.png)
+
 ## ✍️ Author
 **Megan Martinez**
